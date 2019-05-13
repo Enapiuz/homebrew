@@ -1,9 +1,9 @@
 class Multiwatch < Formula
   desc "Simple task runner on directory changes"
   homepage "https://github.com/Enapiuz/multiwatch"
-  url "https://github.com/Enapiuz/multiwatch/releases/download/0.2.0/multiwatch.tar.gz"
-  sha256 "d8279babb31eb8fa8a1f873c84bf9ee02962e3fc3aec75fd49f6dacc729bdd7f"
-  version "0.2.0"
+  url "https://github.com/Enapiuz/multiwatch/releases/download/0.3.0/multiwatch_0.3.0_Darwin_x86_64.tar.gz"
+  sha256 "8140cfdf9e863b92326da645161872f723f3d6a6b2d1a7a8e5cc612d67dbd86d"
+  version "0.3.0"
 
   bottle :unneeded
 
